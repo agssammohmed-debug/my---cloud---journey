@@ -27,7 +27,8 @@ Hello! I'm a Computer Engineering graduate passionate about cloud computing and 
 
 Here I will share weekly summaries, code snippets, and notes from my studies.
 
-- **Week 1:** [Introduction to VPCs, Subnets, and Route Tables](link-to-your-first-log-file.md) *(Coming Soon)*
+- **Week 1:** [Building a Full Web Application in AWS (VPC, IAM, EC2, DynamoDB)](aws-labs-summary-week1.md)
+
 - **Week 2:** [Understanding Linux File Permissions (chmod)](link-to-your-second-log-file.md) *(Coming Soon)*
 
 ---
