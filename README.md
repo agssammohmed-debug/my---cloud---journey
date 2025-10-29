@@ -27,9 +27,9 @@ Hello! I'm a Computer Engineering graduate passionate about cloud computing and 
 
 Here I will share weekly summaries, code snippets, and notes from my studies.
 
-- **Week 1:** [Building a Full Web Application in AWS (VPC, IAM, EC2, DynamoDB)](aws-labs-summary-week1.md)
+- **Week 2:** [Case Study: Comparing Server-Based vs. Serverless Architectures](aws-architectures-comparison-week2.md)
 
-- **Week 2:** [Understanding Linux File Permissions (chmod)](link-to-your-second-log-file.md) *(Coming Soon)*
+- **Week 1:** [Building a Full Web Application in AWS (VPC, IAM, EC2, DynamoDB)](aws-labs-summary-week1.md)
 
 ---
 
