@@ -1,40 +1,37 @@
-# ☁️ My Cloud & Open Source Journey ☁️
+# 👋 مرحباً، أنا أقسام محمد
 
-Hello! I'm a Computer Engineering graduate passionate about cloud computing and open-source technologies. This repository is my living journal, where I document my learning progress, projects, and key insights on my path to becoming an AWS Certified Solutions Architect.
-
----
-
-## 🎯 My Current Goals
-
-- [ ] Achieve AWS Certified Solutions Architect - Associate certification.
-- [ ] Master Linux system administration and shell scripting.
-- [ ] Contribute to an open-source project.
+مهندسة حاسوب شغوفة بالحوسبة السحابية وتقنيات المصادر المفتوحة. أعمل حاليًا على بناء خبرة عملية في AWS وLinux بهدف أن أصبح مهندسة حلول معتمدة. هذا المستودع هو سجل لرحلتي التعليمية، أوثق فيه ما أتعلمه أسبوعيًا.
 
 ---
 
-## 📚 Courses & Certifications
+### 💻 المهارات التقنية (Tech Stack)
 
-### Completed
-*   **Open Source Software Development, Linux and Git** - *The Linux Foundation (via Coursera)*
-*   **AWS Cloud Practitioner Essentials** - *Manara*
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white )
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black )
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white )
 
-### In Progress
+---
+
+### ✅ شهادات مكتملة (Completed)
+
+*   [**AWS Cloud Technical Essentials**](رابط-شهادتك-هنا) - *AWS (via Coursera)*
+
+### 📚 قيد الدراسة (In Progress)
+
 *   **AWS Certified Solutions Architect - Associate** - *AWS (via Coursera)*
+*   **Open Source Software Development, Linux and Git** - *The Linux Foundation (via Coursera)*
 
 ---
 
-## 📝 Learning Log
+### 📝 سجل التعلم (Learning Log)
 
-Here I will share weekly summaries, code snippets, and notes from my studies.
+*Here I will share weekly summaries, code snippets, and notes from my studies.*
 
 - **Week 2:** [Case Study: Comparing Server-Based vs. Serverless Architectures](aws-architectures-comparison-week2.md)
-
 - **Week 1:** [Building a Full Web Application in AWS (VPC, IAM, EC2, DynamoDB)](aws-labs-summary-week1.md)
 
 ---
 
-## 🔗 Connect with Me www.linkedin.com/in/agssam-ahmed-65a56423b
- 
+### 🔗 تواصل معي (Connect with Me)
 
-- [**LinkedIn Profile**](https://www.linkedin.com/in/your-profile-url )
-
+*   [**LinkedIn Profile**](https://www.linkedin.com/in/your-profile-url )
