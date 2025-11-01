@@ -1,6 +1,6 @@
 # 👋 مرحباً، أنا أقسام محمد
 
-مهندسة حاسوب شغوفة بالحوسبة السحابية وتقنيات المصادر المفتوحة. أعمل حاليًا على بناء خبرة عملية في AWS وLinux بهدف أن أصبح مهندسة حلول معتمدة. هذا المستودع هو سجل لرحلتي التعليمية، أوثق فيه ما أتعلمه أسبوعيًا.
+مهندسة حاسوب شغوفة بالحوسبة السحابية وتقنيات المصادر المفتوحة. أعمل حاليًا على إكمال تخصصين مهنيين في AWS و Linux/Git بهدف أن أصبح مهندسة حلول معتمدة. هذا المستودع هو سجل لرحلتي التعليمية، أوثق فيه ما أتعلمه أسبوعيًا.
 
 ---
 
@@ -12,14 +12,19 @@
 
 ---
 
-### ✅ شهادات مكتملة (Completed)
+### 📚 التخصصات المهنية قيد الدراسة (Professional Specializations)
 
-*   [**AWS Cloud Technical Essentials**](رابط-شهادتك-هنا) - *AWS (via Coursera)*
+#### 1. AWS Cloud Solutions Architect - *via Coursera*
+*   ✅ **الدورة 1:** [**AWS Cloud Technical Essentials**](https://www.coursera.org/account/accomplishments/verify/BH0TERVMJLM2)
+*   🔄 **الدورة 2:** Architecting Solutions on AWS *(قيد الدراسة حاليًا)*
+*   *الدورة 3: Building Data Lakes on AWS*
+*   *الدورة 4: Exam Prep: AWS Certified Solutions Architect - Associate*
 
-### 📚 قيد الدراسة (In Progress)
-
-*   **AWS Certified Solutions Architect - Associate** - *AWS (via Coursera)*
-*   **Open Source Software Development, Linux and Git** - *The Linux Foundation (via Coursera)*
+#### 2. Open Source Software Development, Linux and Git - *via Coursera*
+*   ✅ **الدورة 1:** [**Open Source Software Development Methods**](https://www.coursera.org/account/accomplishments/verify/OJKUUDTWL6MH)
+*   🔄 **الدورة 2:** Linux for Developers *(قيد الدراسة حاليًا)*
+*   *الدورة 3: Linux Tools for Developers*
+*   *الدورة 4: Using Git for Distributed Development*
 
 ---
 
@@ -34,4 +39,5 @@
 
 ### 🔗 تواصل معي (Connect with Me)
 
-*   [**LinkedIn Profile**](https://www.linkedin.com/in/your-profile-url )
+*   [**LinkedIn Profile**](https://www.linkedin.com/in/agssam-ahmed-65a56423b
+ )
